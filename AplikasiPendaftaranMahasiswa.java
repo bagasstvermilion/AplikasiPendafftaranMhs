@@ -7,7 +7,7 @@ public class AplikasiPendaftaranMahasiswa {
 
     public static void inputDataMahasiswa() {
         Scanner in = new Scanner(System.in);
-        System.out.println("===== Input Data Calon Mahasiswa =====");
+        System.out.println("====== Input Data Calon Mahasiswa ======");
         System.out.print("\nMasukkan Nama: ");
         nama[jumlahMahasiswa] = in.next();
         System.out.print("Masukkan Jurusan: ");
